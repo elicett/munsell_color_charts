@@ -1,0 +1,7 @@
+Munsell Renotation Data - Rochester Institute of Technology.
+
+Based in a report entitled "One Set of Munsell Re-renotations," by Deane B. Judd and Dorothy Nickerson was issues by the National Bureau of Standards (now NIST) in 1967.
+
+https://www.rit.edu/science/munsell-color-science-lab-educational-resources
+
+https://www.rit-mcsl.org/MunsellRenotation/real.dat
