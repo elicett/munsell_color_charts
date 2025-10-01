@@ -31,8 +31,8 @@ python munsell_cartilla.py --input renotation.txt --output atlas_coords.pdf --la
 # Generate with labels under each patch
 python munsell_cartilla.py --input renotation.txt --output atlas_below.pdf --label-position below
 
+```
 
-----------------------------------------------
 
 # munsell_color_charts
 
@@ -66,3 +66,4 @@ python munsell_cartilla.py --input renotation.txt --output atlas_coords.pdf --la
 
 # Generar con etiquetas debajo de cada parche
 python munsell_cartilla.py --input renotation.txt --output atlas_below.pdf --label-position below
+```
