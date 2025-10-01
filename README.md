@@ -10,7 +10,7 @@ This repository provides Python tools and ready-to-print PDF atlases of the **Mu
 
 This repository provides Python tools and ready-to-print PDF atlases of the **Munsell color system**, generated from the official **Munsell Renotation Data (1943)** published by the National Institute of Standards and Technology (NIST, USA).
 
-### Includes:
+### Includes
 - Full dataset of Munsell Renotation values (hue, value, chroma, xyY).  
 - Python script (`munsell_cartilla.py`) to generate printable color charts in PDF.  
 - Two output modes:
@@ -32,14 +32,21 @@ python munsell_cartilla.py --input renotation.txt --output atlas_coords.pdf --la
 python munsell_cartilla.py --input renotation.txt --output atlas_below.pdf --label-position below
 
 
+----------------------------------------------
+
+# munsell_color_charts
+
+Este repositorio ofrece herramientas en Python y atlas en PDF listos para imprimir del **sistema de colores Munsell**, generados a partir de los datos oficiales de la **Renotación de Munsell (1943)** publicados por el **National Institute of Standards and Technology (NIST, EE.UU.)**.
+
+---
 
 ## 🇪🇸 Español
 
 ### Cartillas de Colores Munsell (Renotación 1943, NIST)
 
-Este repositorio ofrece herramientas en Python y atlas en PDF listos para imprimir del **sistema de colores Munsell**, generados a partir de los datos oficiales de la **Renotación de Munsell (1943)** publicados por el *National Institute of Standards and Technology (NIST, EE.UU.)*.
+Este repositorio contiene herramientas en Python y atlas en PDF listos para imprimir del **sistema de colores Munsell**, generados a partir de la **Renotación de Munsell (1943)** publicada por el *National Institute of Standards and Technology (NIST, EE.UU.)*.
 
-### Incluye:
+### Incluye
 - Conjunto completo de valores de renotación Munsell (matiz, valor, croma, xyY).  
 - Script en Python (`munsell_cartilla.py`) para generar cartillas de colores imprimibles en PDF.  
 - Dos modos de salida:
